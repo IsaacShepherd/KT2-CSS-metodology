@@ -1,0 +1,16 @@
+.forest-page{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("img/forest.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.row-cards-container{
+    justify-content: space-around;
+}
+.row-big-white-text{
+    height: 50vh;
+    display: flex;
+    justify-content:center;
+    align-items: flex-end
+}
