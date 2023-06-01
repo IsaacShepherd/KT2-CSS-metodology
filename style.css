@@ -125,8 +125,11 @@ font-size: 1.5rem;
     .quotes-page{
     padding: 5% 0;
   }
+    .quotes-card{
+      margin: 5% 0;
+    }
   }
-  @media (width < 1776px){
+  @media (width < 1776px) and (width > 701px){
     .quotes-page{
     padding: 5% 18%;
   }
